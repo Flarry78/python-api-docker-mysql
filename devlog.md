@@ -12,3 +12,8 @@
 - created a Docker yml compose and a SQL Schema
 - tested it all and pushed it to Github
 
+
+## 2026-08-10
+
+- Finished the Import Script
+- Get the Cheapshark Game ID and the Name of the game and gave it my own ID
