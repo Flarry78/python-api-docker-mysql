@@ -13,6 +13,13 @@
 - tested it all and pushed it to Github
 
 
+## 2026-08-07
+
+- installed Python
+- get a json from the cheapshark with python
+- little tests with print to see if i get the data
+
+
 ## 2026-08-10
 
 - Finished the Import Script
