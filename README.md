@@ -1,21 +1,23 @@
 # 🎮 CheapShark Game Tracker
 
-Ein Python-basiertes Projekt, das Angebote der CheapShark-API verarbeitet und relational in einer MySQL-Datenbank speichert. Das Setup läuft containerisiert über Docker Compose und dient als Fundament für eine spätere grafische Benutzeroberfläche.
+A Python-based project that processes game deals from the CheapShark API and stores them relationally in a MySQL database. The entire setup is containerized using Docker Compose and serves as the foundation for a future graphical user interface (GUI).
 
 ---
 
-## 💡 Konzept & Architektur
+## 💡 Concept & Architecture
 
-* **Containerisiertes Setup:** Die gesamte Datenbankumgebung ist samt Initialisierungsskript (SQL-Dump) über Docker Compose vorkonfiguriert und sofort einsatzbereit.
-* **Surrogate Key Pattern (Referenz-Mapping):** Jedes Spiel erhält eine datenbankinterne, eigene Primärschlüssel-ID (`My_ID`). Die externe `gameID` von CheapShark wird als Referenzschlüssel in einer Mapping-Tabelle gespeichert, um API-Anbindungen flexibel zu halten und externe IDs zu entkoppeln.
-* **ETL-Pipeline:** Ein Python-Skript liest die JSON-Daten der API aus, bereinigt Duplikate und verteilt die Informationen strukturiert auf die relationalen Tabellen.
+* **Containerized Setup:** The complete database environment, including the initialization script (SQL dump), is pre-configured via Docker Compose.
+* **Surrogate Key Pattern (Reference Mapping):** Each game is assigned an internal primary key (`My_ID`). The external `gameID` from CheapShark is stored as a reference key in a mapping table to decouple external IDs and maintain API flexibility.
+* **ETL Pipeline:** A Python script extracts the JSON data, removes duplicates, and distributes the clean information across relational tables.
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Docker-Compose-Infrastruktur & Datenbank-Schema
-- [x] JSON-Parsing & Import-Logik mit ID-Mapping
-- [x] Duplikatsvermeidung bei API-Referenzen
-- [ ] Automatisierte Live-Abfrage der CheapShark-API
-- [ ] Grafische Benutzeroberfläche (GUI) zur Auswertung
+- [x] Docker Compose infrastructure & database schema
+- [x] JSON parsing & import logic with ID mapping
+- [ ] Duplicate prevention for API references
+- [ ] Automated live API fetching from CheapShark
+- [ ] Graphical user interface (GUI) for data visualization
+
+---
