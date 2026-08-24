@@ -30,3 +30,10 @@
 
 - loaded 100 more deals / games in the databank
 - made a mistake. the games should only have 1 ID and at the moment they have multiple IDs
+
+
+## 2026-08-24
+
+- loaded a new json
+- edited the script to learn more how i can show the data i wanted
+- try to edited the script so that i dont have any more duplicates
