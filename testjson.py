@@ -22,20 +22,39 @@ cursor = db.cursor()
 with open(JSON_FILE, "r", encoding="utf-8") as f:
     deals = json.load(f)
 
-for deal in deals:
-    api_game_id = deal["gameID"]
-    game_name = deal["title"]
+ip_vorhanden = "SELECT * FROM Reference_API"
+cursor.execute(ip_vorhanden)
+
+rows = cursor.fetchall()
+
+schonda = set()
+
+for row in rows:
+    if not row[1] in schonda:
+        schonda.add(row[1])
+        print(row[1])
+
+for i in schonda:
+    print("liste " + i)
+
+print(len(schonda))
+
+#for deal in deals:
+#    api_game_id = deal["gameID"]
+ #   game_name = deal["title"]
+
+ #   print("deal id " + api_game_id + " " + game_name)
 
 
-    sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
-    cursor.execute(sql_game, (game_name,))
+#    sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
+#    cursor.execute(sql_game, (game_name,))
 
-    neue_game_id = cursor.lastrowid
+#    neue_game_id = cursor.lastrowid
 
-    sql_ref = "INSERT INTO Reference_API (My_ID, CheapShark_Game_ID) VALUES (%s, %s)"
-    cursor.execute(sql_ref, (neue_game_id, api_game_id))
+#    sql_ref = "INSERT INTO Reference_API (My_ID, CheapShark_Game_ID) VALUES (%s, %s)"
+#    cursor.execute(sql_ref, (neue_game_id, api_game_id))
 
-db.commit()
+#db.commit()
 
-cursor.close()
-db.close()
+#cursor.close()
+#db.close()
