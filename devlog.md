@@ -24,3 +24,9 @@
 
 - Finished the Import Script
 - Get the Cheapshark Game ID and the Name of the game and gave it my own ID
+
+
+## 2026-08-19
+
+- loaded 100 more deals / games in the databank
+- made a mistake. the games should only have 1 ID and at the moment they have multiple IDs

@@ -12,8 +12,13 @@
         "savings": "58.016878",
         "metacriticScore": "0",
         "steamRatingText": "Mixed",
+<<<<<<< HEAD
         "steamRatingPercent": "63",
         "steamRatingCount": "1410",
+=======
+        "steamRatingPercent": "64",
+        "steamRatingCount": "1465",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "steamAppID": "3167920",
         "releaseDate": 1786579200,
         "lastChange": 1786647150,
@@ -34,7 +39,11 @@
         "metacriticScore": "63",
         "steamRatingText": "Mixed",
         "steamRatingPercent": "62",
+<<<<<<< HEAD
         "steamRatingCount": "7709",
+=======
+        "steamRatingCount": "7710",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "steamAppID": "315210",
         "releaseDate": 1706832000,
         "lastChange": 1786736273,
@@ -76,7 +85,11 @@
         "metacriticScore": "0",
         "steamRatingText": "Mostly Positive",
         "steamRatingPercent": "71",
+<<<<<<< HEAD
         "steamRatingCount": "474",
+=======
+        "steamRatingCount": "490",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "steamAppID": "3929470",
         "releaseDate": 1786406400,
         "lastChange": 1786647152,
@@ -601,7 +614,11 @@
         "metacriticScore": "90",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "88",
+<<<<<<< HEAD
         "steamRatingCount": "28923",
+=======
+        "steamRatingCount": "28930",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "steamAppID": "286690",
         "releaseDate": 1408924800,
         "lastChange": 1786984940,
@@ -920,7 +937,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786963897,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg"
     },
     {
@@ -941,7 +962,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786927038,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg"
     },
     {
@@ -962,7 +987,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786969006,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg"
     },
     {
@@ -983,7 +1012,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736410,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://cdn.humblebundle.com/misc/files/hashed/85970297dbcd85c44bd2112f2e33292144559ef1.png"
     },
     {
@@ -1004,7 +1037,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736409,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/ce77d02334d0460da2c70207fe3e9a2a/ee7127ac849d40a4979a0437bc9f2b23.jpg"
     },
     {
@@ -1025,7 +1062,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736409,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg"
     },
     {
@@ -1046,7 +1087,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736310,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-deluxe-edition/cover-180-f93a22.jpg"
     },
     {
@@ -1067,7 +1112,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786925603,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg"
     },
     {
@@ -1088,7 +1137,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736312,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/dragon-ball-fighterz-fighterz-edition/cover-180-0fe2cb.jpg"
     },
     {
@@ -1109,7 +1162,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736312,
+<<<<<<< HEAD
         "dealRating": "10.0",
+=======
+        "dealRating": "9.9",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/soulcalibur-vi-deluxe-edition/cover-180-b25d00.jpg"
     },
     {
@@ -1130,6 +1187,7 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786545983,
+<<<<<<< HEAD
         "dealRating": "10.0",
         "thumb": "https://images.gog-statics.com/805143c98c6e96f9720d2e8d6087bae4759cb220a44bfd11842c060b9db50c4b_product_tile_117h.webp"
     },
@@ -1155,6 +1213,12 @@
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
     },
     {
+=======
+        "dealRating": "9.8",
+        "thumb": "https://images.gog-statics.com/805143c98c6e96f9720d2e8d6087bae4759cb220a44bfd11842c060b9db50c4b_product_tile_117h.webp"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "TEKKEN7DEFINITIVEEDITION",
         "title": "TEKKEN 7 - Definitive Edition",
         "metacriticLink": null,
@@ -1172,10 +1236,38 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786735487,
+<<<<<<< HEAD
         "dealRating": "10.0",
         "thumb": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg"
     },
     {
+=======
+        "dealRating": "9.8",
+        "thumb": "https://sttc.gamersgate.com/images/product/tekken-7-definitive-edition/cover-180-f0adc6.jpg"
+    },
+    {
+        "internalName": "DONTSTOPGIRLYPOP",
+        "title": "Dont Stop, Girlypop!",
+        "metacriticLink": "/game/dont-stop-girlypop/",
+        "dealID": "4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
+        "storeID": "23",
+        "gameID": "315520",
+        "salePrice": "2.35",
+        "normalPrice": "19.99",
+        "isOnSale": "1",
+        "savings": "88.244122",
+        "metacriticScore": "70",
+        "steamRatingText": "Very Positive",
+        "steamRatingPercent": "84",
+        "steamRatingCount": "496",
+        "steamAppID": "2610650",
+        "releaseDate": 1769644800,
+        "lastChange": 1786696145,
+        "dealRating": "9.8",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "DEATHLOOPDELUXEEDITION",
         "title": "DEATHLOOP - Deluxe Edition",
         "metacriticLink": null,
@@ -1193,7 +1285,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786697362,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.8",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/e089d35e59904541ba7aa2e52dda6bf0/5c8a882b40444ac98aabbd77ca932418.jpg"
     },
     {
@@ -1214,7 +1310,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786697128,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.8",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/ac189c727a6841728b830a6cb60bc9e1/6d1f9fd5e59943f69f879bcbd27b0041.jpg"
     },
     {
@@ -1235,7 +1335,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786922081,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.8",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/sniper-elite-5-deluxe-edition/cover-180-dd9288.jpg"
     },
     {
@@ -1256,7 +1360,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786922263,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.8",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/il-2-sturmovik-tank-crew-clash-at-prokhorovka/cover-180-4ada10.jpg"
     },
     {
@@ -1277,7 +1385,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786963897,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg"
     },
     {
@@ -1298,7 +1410,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786927038,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg"
     },
     {
@@ -1319,7 +1435,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786969006,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-legendary-edition-steam/cover-180-27439c.jpg"
     },
     {
@@ -1340,7 +1460,11 @@
         "steamAppID": "269710",
         "releaseDate": 1468281600,
         "lastChange": 1786735913,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/capsule_231x87.jpg?t=1768587840"
     },
     {
@@ -1357,11 +1481,19 @@
         "metacriticScore": "88",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "85",
+<<<<<<< HEAD
         "steamRatingCount": "107266",
         "steamAppID": "289070",
         "releaseDate": 1476921600,
         "lastChange": 1786925380,
         "dealRating": "9.9",
+=======
+        "steamRatingCount": "107272",
+        "steamAppID": "289070",
+        "releaseDate": 1476921600,
+        "lastChange": 1786925380,
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1784651829"
     },
     {
@@ -1382,7 +1514,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736300,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/captain-tsubasa-rise-of-new-champions-ultimate-edition/cover-180-3e59d7.jpg"
     },
     {
@@ -1403,7 +1539,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786735534,
+<<<<<<< HEAD
         "dealRating": "9.9",
+=======
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://cdn.humblebundle.com/misc/files/hashed/3c28372ff9df9f78c5deb5bb6db42436a11e8b8b.png"
     },
     {
@@ -1420,11 +1560,19 @@
         "metacriticScore": "88",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "85",
+<<<<<<< HEAD
         "steamRatingCount": "107266",
         "steamAppID": "289070",
         "releaseDate": 1476921600,
         "lastChange": 1786963852,
         "dealRating": "9.8",
+=======
+        "steamRatingCount": "107272",
+        "steamAppID": "289070",
+        "releaseDate": 1476921600,
+        "lastChange": 1786963852,
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1784651829"
     },
     {
@@ -1441,11 +1589,19 @@
         "metacriticScore": "88",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "85",
+<<<<<<< HEAD
         "steamRatingCount": "107266",
         "steamAppID": "289070",
         "releaseDate": 1476921600,
         "lastChange": 1786968857,
         "dealRating": "9.8",
+=======
+        "steamRatingCount": "107272",
+        "steamAppID": "289070",
+        "releaseDate": 1476921600,
+        "lastChange": 1786968857,
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1784651829"
     },
     {
@@ -1462,11 +1618,19 @@
         "metacriticScore": "88",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "85",
+<<<<<<< HEAD
         "steamRatingCount": "107266",
         "steamAppID": "289070",
         "releaseDate": 1476921600,
         "lastChange": 1786926988,
         "dealRating": "9.8",
+=======
+        "steamRatingCount": "107272",
+        "steamAppID": "289070",
+        "releaseDate": 1476921600,
+        "lastChange": 1786926988,
+        "dealRating": "9.7",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1784651829"
     },
     {
@@ -1487,7 +1651,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786458528,
+<<<<<<< HEAD
         "dealRating": "9.8",
+=======
+        "dealRating": "9.6",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/b862c5cae355443f879809fc20eec404/e1d34e22dd2e4d3196a8e0c77b07c778.jpg"
     },
     {
@@ -1508,7 +1676,11 @@
         "steamAppID": "57300",
         "releaseDate": 1283904000,
         "lastChange": 1786991229,
+<<<<<<< HEAD
         "dealRating": "9.8",
+=======
+        "dealRating": "9.6",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/57300/ce0f84d25ace136096191d215a5d49c57d832999/capsule_231x87.jpg?t=1751032707"
     },
     {
@@ -1525,11 +1697,19 @@
         "metacriticScore": "97",
         "steamRatingText": "Very Positive",
         "steamRatingPercent": "92",
+<<<<<<< HEAD
         "steamRatingCount": "57420",
         "steamAppID": "632470",
         "releaseDate": 1617062400,
         "lastChange": 1786985287,
         "dealRating": "9.7",
+=======
+        "steamRatingCount": "57437",
+        "steamAppID": "632470",
+        "releaseDate": 1617062400,
+        "lastChange": 1786985287,
+        "dealRating": "9.6",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
     },
     {
@@ -1550,7 +1730,11 @@
         "steamAppID": "332250",
         "releaseDate": 1421798400,
         "lastChange": 1787081617,
+<<<<<<< HEAD
         "dealRating": "9.7",
+=======
+        "dealRating": "9.6",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
     },
     {
@@ -1571,7 +1755,11 @@
         "steamAppID": "2610650",
         "releaseDate": 1769644800,
         "lastChange": 1786610326,
+<<<<<<< HEAD
         "dealRating": "9.7",
+=======
+        "dealRating": "9.6",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
     },
     {
@@ -1592,7 +1780,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786957701,
+<<<<<<< HEAD
         "dealRating": "9.7",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/1fc947d200d049e4ad63b7b72fe48c0e/fb360b675ee54fe0af3bdebc6ee7e2ee.jpg"
     },
     {
@@ -1613,7 +1805,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786458528,
+<<<<<<< HEAD
         "dealRating": "9.7",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/343728a3ccce4911b335aad397b6cae3/a3b2074aa80e4e81b525aa0ec4a3acdc.jpg"
     },
     {
@@ -1634,6 +1830,7 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786458528,
+<<<<<<< HEAD
         "dealRating": "9.7",
         "thumb": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8a5d2786/images/large/659ea86929c01c38968dce15.jpg?sw=197&amp;sh=261&amp;sm=fit"
     },
@@ -1659,6 +1856,12 @@
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
     },
     {
+=======
+        "dealRating": "9.5",
+        "thumb": "https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8a5d2786/images/large/659ea86929c01c38968dce15.jpg?sw=197&amp;sh=261&amp;sm=fit"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "SHADOWTACTICSBLADESOFTHESHOGUN",
         "title": "Shadow Tactics: Blades of the Shogun",
         "metacriticLink": "/game/shadow-tactics-blades-of-the-shogun/",
@@ -1676,10 +1879,38 @@
         "steamAppID": "418240",
         "releaseDate": 1480982400,
         "lastChange": 1787000168,
+<<<<<<< HEAD
         "dealRating": "9.7",
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1770912397"
     },
     {
+=======
+        "dealRating": "9.5",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1770912397"
+    },
+    {
+        "internalName": "DONTSTOPGIRLYPOP",
+        "title": "Dont Stop, Girlypop!",
+        "metacriticLink": "/game/dont-stop-girlypop/",
+        "dealID": "msu0%2BanMJrKmgos%2B7EdlTPNxEOdWKD2pDlBlwFeKzJ0%3D",
+        "storeID": "27",
+        "gameID": "315520",
+        "salePrice": "2.79",
+        "normalPrice": "19.99",
+        "isOnSale": "1",
+        "savings": "86.043022",
+        "metacriticScore": "70",
+        "steamRatingText": "Very Positive",
+        "steamRatingPercent": "84",
+        "steamRatingCount": "496",
+        "steamAppID": "2610650",
+        "releaseDate": 1769644800,
+        "lastChange": 1786582244,
+        "dealRating": "9.5",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "ASSASSINSCREEDODYSSEYDELUXEEDITION",
         "title": "Assassin's Creed Odyssey - Deluxe Edition",
         "metacriticLink": null,
@@ -1697,7 +1928,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736300,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/85f64a5bdd2045fcae1dbfaa2b03b28e/18f26e2f95974e6ab4f8181434d4dd00.jpg"
     },
     {
@@ -1718,7 +1953,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736300,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/marvels-midnight-suns-digitalplus-edition-steam/cover-180-1a15a6.jpg"
     },
     {
@@ -1739,7 +1978,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736300,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/1aee68657c394446a9c7f50ea9ebe0ae/63a3d6ebed764c71835119b2bac0829a.jpg"
     },
     {
@@ -1760,7 +2003,11 @@
         "steamAppID": null,
         "releaseDate": 1717459200,
         "lastChange": 1786735971,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
     },
     {
@@ -1781,7 +2028,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786458528,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/e6797d37de1243a1a79b5fede824bda3/da9b336eecab4f57b33543893d426051.jpg"
     },
     {
@@ -1802,7 +2053,11 @@
         "steamAppID": "223730",
         "releaseDate": 1352419200,
         "lastChange": 1787082480,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.5",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
     },
     {
@@ -1823,7 +2078,11 @@
         "steamAppID": "2610650",
         "releaseDate": 1769644800,
         "lastChange": 1786583666,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1782463282"
     },
     {
@@ -1844,7 +2103,11 @@
         "steamAppID": "261470",
         "releaseDate": 1400803200,
         "lastChange": 1787057311,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261470/capsule_231x87.jpg?t=1726821290"
     },
     {
@@ -1865,7 +2128,11 @@
         "steamAppID": "332250",
         "releaseDate": 1421798400,
         "lastChange": 1786957617,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
     },
     {
@@ -1886,7 +2153,11 @@
         "steamAppID": "11200",
         "releaseDate": 1194998400,
         "lastChange": 1787020286,
+<<<<<<< HEAD
         "dealRating": "9.6",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
     },
     {
@@ -1907,7 +2178,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736312,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://sttc.gamersgate.com/images/product/egosoft-collection/cover-180-9675c7.jpg"
     },
     {
@@ -1928,7 +2203,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736312,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://images.greenmangaming.com/d52eadd86cbf494fab9ebb2cc95ad897/9619dd5324e94c4eab157caf56b31e6c.jpg"
     },
     {
@@ -1949,7 +2228,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786736312,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://cdn.humblebundle.com/misc/files/hashed/51c9454abb71ffa7ba6c0f25cc6b4a00cca69943.png"
     },
     {
@@ -1970,7 +2253,11 @@
         "steamAppID": null,
         "releaseDate": 0,
         "lastChange": 1786030943,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://cdn2.unrealengine.com/egs-battlefield2042eliteedition-dice-editions-s2-1200x1600-ba446511ada9.jpg"
     },
     {
@@ -1991,6 +2278,7 @@
         "steamAppID": "811270",
         "releaseDate": 1531958400,
         "lastChange": 1787081617,
+<<<<<<< HEAD
         "dealRating": "9.5",
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
     },
@@ -2016,6 +2304,12 @@
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1162130/capsule_231x87.jpg?t=1709649147"
     },
     {
+=======
+        "dealRating": "9.4",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "STORIESUNTOLD",
         "title": "Stories Untold",
         "metacriticLink": "/game/stories-untold/",
@@ -2033,7 +2327,11 @@
         "steamAppID": "558420",
         "releaseDate": 1488153600,
         "lastChange": 1786991706,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1687975548"
     },
     {
@@ -2054,10 +2352,38 @@
         "steamAppID": "558420",
         "releaseDate": 1488153600,
         "lastChange": 1786925489,
+<<<<<<< HEAD
         "dealRating": "9.5",
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1687975548"
     },
     {
+=======
+        "dealRating": "9.4",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1687975548"
+    },
+    {
+        "internalName": "WINDBOUND",
+        "title": "Windbound",
+        "metacriticLink": "/game/windbound/",
+        "dealID": "Zyhhf3v6x%2Bre%2FrS6O%2F6hkztQbMqUltbsDGUT%2B%2FHGD%2BY%3D",
+        "storeID": "7",
+        "gameID": "216865",
+        "salePrice": "1.99",
+        "normalPrice": "19.99",
+        "isOnSale": "1",
+        "savings": "90.045023",
+        "metacriticScore": "0",
+        "steamRatingText": "Mixed",
+        "steamRatingPercent": "60",
+        "steamRatingCount": "1023",
+        "steamAppID": "1162130",
+        "releaseDate": 1777593600,
+        "lastChange": 1786972847,
+        "dealRating": "9.4",
+        "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1162130/capsule_231x87.jpg?t=1709649147"
+    },
+    {
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "internalName": "SPLASHER",
         "title": "Splasher",
         "metacriticLink": "/game/splasher/",
@@ -2075,7 +2401,11 @@
         "steamAppID": "446840",
         "releaseDate": 1486425600,
         "lastChange": 1787081707,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
     },
     {
@@ -2096,7 +2426,11 @@
         "steamAppID": "390720",
         "releaseDate": 1468281600,
         "lastChange": 1787081708,
+<<<<<<< HEAD
         "dealRating": "9.5",
+=======
+        "dealRating": "9.4",
+>>>>>>> 19cdda8665aab00b7a479620dfe7d3d4090089e5
         "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
     }
 ]
