@@ -37,3 +37,9 @@
 - loaded a new json
 - edited the script to learn more how i can show the data i wanted
 - try to edited the script so that i dont have any more duplicates
+
+
+## 2026-08-25
+
+- experimented with lists and sets
+- try to filter duplicates
