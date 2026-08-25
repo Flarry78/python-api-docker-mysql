@@ -27,17 +27,30 @@ cursor.execute(ip_vorhanden)
 
 rows = cursor.fetchall()
 
-schonda = set()
+voll = list()
+
+schonda = list()
+doppelt = list()
+
 
 for row in rows:
-    if not row[1] in schonda:
-        schonda.add(row[1])
-        print(row[1])
+    erste = row[1]
+    voll.append(erste)
+    if not erste in schonda:
+        schonda.append(erste)
+    else:
+        doppelt.append(erste)
 
-for i in schonda:
-    print("liste " + i)
 
-print(len(schonda))
+for i in doppelt:
+    if i in voll:
+        voll.remove(i)
+
+
+
+print(len(voll))
+
+
 
 #for deal in deals:
 #    api_game_id = deal["gameID"]
