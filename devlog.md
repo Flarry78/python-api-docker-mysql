@@ -43,3 +43,9 @@
 
 - experimented with lists and sets
 - try to filter duplicates
+
+
+## 2026-08-26
+
+- tried to delete my duplicates with my python script.
+- deleted the duplicates just with sql in dbeaver

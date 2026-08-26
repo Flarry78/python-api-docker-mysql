@@ -41,14 +41,21 @@ for row in rows:
     else:
         doppelt.append(erste)
 
+print(len(voll))
+
 
 for i in doppelt:
     if i in voll:
         voll.remove(i)
+        loschen_id = "UPDATE TABLE Reference_API WHERE CheapShark_Game_ID == (i)"
+        cursor.execute(loschen_id)
+
 
 
 
 print(len(voll))
+
+
 
 
 
