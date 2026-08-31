@@ -33,18 +33,18 @@ for deal in deals:
     game_name = deal["title"]
     if api_game_id in existing_games:
         print(game_name)
+    else:
+        sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
+        cursor.execute(sql_game, (game_name,))
 
+        neue_game_id = cursor.lastrowid
 
+        sql_ref = "INSERT INTO Reference_API (My_ID, CheapShark_Game_ID) VALUES (%s, %s)"
+        cursor.execute(sql_ref, (neue_game_id, api_game_id))
 
-#    sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
-#    cursor.execute(sql_game, (game_name,))
+        existing_games[api_game_id] = neue_game_id
+        print(f"Neu angelegt: {game_name} (DB ID: {neue_game_id})")
 
-#    neue_game_id = cursor.lastrowid
-
-#    sql_ref = "INSERT INTO Reference_API (My_ID, CheapShark_Game_ID) VALUES (%s, %s)"
-#    cursor.execute(sql_ref, (neue_game_id, api_game_id))
-
-#db.commit()
-
-#cursor.close()
-#db.close()
+db.commit()
+cursor.close()
+db.close()
