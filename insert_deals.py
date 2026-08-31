@@ -25,20 +25,15 @@ with open(JSON_FILE, "r", encoding="utf-8") as f:
 ip_vorhanden = "SELECT * FROM Reference_API"
 cursor.execute(ip_vorhanden)
 
-rows = cursor.fetchall()
+existing_games = {row[1]: row[0] for row in cursor.fetchall()}
 
 
-for row in rows:
-#   erste = row[1]
-#   print(erste)
-    if str(57) in row[1]:
-        print(row[0])
+for deal in deals:
+    api_game_id = deal["gameID"]
+    game_name = deal["title"]
+    if api_game_id in existing_games:
+        print(game_name)
 
-
-#for deal in deals:
-#    api_game_id = deal["gameID"]
-#    game_name = deal["title"]
-#    print("deal id " + api_game_id + " " + game_name)
 
 
 #    sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
