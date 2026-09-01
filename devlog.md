@@ -49,3 +49,14 @@
 
 - tried to delete my duplicates with my python script.
 - deleted the duplicates just with sql in dbeaver
+
+
+## 2026-08-31
+
+- i can now insert new games without getting duplicates
+
+
+## 2026-09-01
+
+- added new TABLE "Shops" for the IDs and the Shop names
+- created a script to insert the shops with their IDs

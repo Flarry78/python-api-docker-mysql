@@ -6,7 +6,7 @@ import mysql.connector
 load_dotenv()
 
 SCRIPT_DIR = Path(__file__).parent
-JSON_FILE = SCRIPT_DIR / "deals.json"
+JSON_FILE = SCRIPT_DIR / "stores.json"
 
 
 db = mysql.connector.connect(
@@ -20,61 +20,21 @@ db = mysql.connector.connect(
 cursor = db.cursor()
 
 with open(JSON_FILE, "r", encoding="utf-8") as f:
-    deals = json.load(f)
-
-ip_vorhanden = "SELECT * FROM Reference_API"
-cursor.execute(ip_vorhanden)
-
-rows = cursor.fetchall()
-
-voll = list()
-
-schonda = list()
-doppelt = list()
+    stores = json.load(f)
 
 
-for row in rows:
-    erste = row[1]
-    voll.append(erste)
-    if not erste in schonda:
-        schonda.append(erste)
-    else:
-        doppelt.append(erste)
+for store in stores:
+    store_id = store["storeID"]
+    store_name = store["storeName"]
 
-print(len(voll))
+    print(store_id + " " + store_name)
 
 
-for i in doppelt:
-    if i in voll:
-        voll.remove(i)
-        loschen_id = "UPDATE TABLE Reference_API WHERE CheapShark_Game_ID == (i)"
-        cursor.execute(loschen_id)
+    store_names = "INSERT INTO Shops (Shop_ID, Shop_Name) VALUES (%s, %s)"
+    cursor.execute(store_names, (store_id, store_name))
 
 
+db.commit()
 
-
-print(len(voll))
-
-
-
-
-
-#for deal in deals:
-#    api_game_id = deal["gameID"]
- #   game_name = deal["title"]
-
- #   print("deal id " + api_game_id + " " + game_name)
-
-
-#    sql_game = "INSERT INTO Games (Game_Name) VALUES (%s)"
-#    cursor.execute(sql_game, (game_name,))
-
-#    neue_game_id = cursor.lastrowid
-
-#    sql_ref = "INSERT INTO Reference_API (My_ID, CheapShark_Game_ID) VALUES (%s, %s)"
-#    cursor.execute(sql_ref, (neue_game_id, api_game_id))
-
-#db.commit()
-
-#cursor.close()
-#db.close()
+cursor.close()
+db.close()
